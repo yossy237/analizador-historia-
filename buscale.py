@@ -10,7 +10,7 @@ st.set_page_config(
     page_icon="📜"
 )
 
-DATA_FILEPATH = "litcovid.export.all.tsv"
+DATA_FILEPATH = "historia.export.all.tsv"
 
 
 @st.cache_data
